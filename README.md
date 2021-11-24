@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sanchit
 ## A passionate Full Stack Developer.
 
-### 🌱 I’m currently learning React Native Framework
+### 🌱 I’m currently learning WEB DEVELOPMENT
 
 📫 **[Connect](mailto:sanchitbhadgal36@gmail.com)** with me.
 ### **[Check out my Personal Portfolio](https://sanchitbhadgaldev.netlify.app/)**
