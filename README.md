@@ -1,10 +1,10 @@
 # Hi 👋, I'm Sanchit
-## A passionate Full Stack Developer.
+### A passionate Full Stack Developer
 
-### 🌱 I’m currently learning WEB DEVELOPMENT
+#### 🌱 I’m currently learning Web and App Development
 
-📫 **[Connect](mailto:sanchitbhadgal36@gmail.com)** with me.
-### **[Check out my Personal Portfolio](https://sanchitbhadgaldev.netlify.app/)**
+#### 📫 **[Connect](mailto:sanchitbhadgal36@gmail.com)** with me
+#### **[Check out my Personal Portfolio](https://sanchitbhadgaldev.netlify.app/)**
 
 ## Languages and Tools:
 
