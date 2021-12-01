@@ -25,7 +25,6 @@
 <br>
 <br>
 <div align="center">
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sanchit36&theme=react" alt="sanchit36" /></p>
+  <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=sanchit36&theme=react" alt="sanchit36" /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sanchit36&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Sanchit Bhadgal" align="center" /></p>
 </div>
