@@ -27,4 +27,5 @@
 <div align="center">
   <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=sanchit36&theme=react" alt="sanchit36" /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sanchit36&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Sanchit Bhadgal" align="center" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit36&layout=compact&theme=react" align="center"/></p>
 </div>
