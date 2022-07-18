@@ -4,7 +4,7 @@
 #### 🌱 I’m currently learning Web and App Development
 
 #### 📫 **[Connect](mailto:sanchitbhadgal36@gmail.com)** with me
-#### **[Check out my Personal Portfolio](https://sanchitbhadgaldev.netlify.app/)**
+#### **[Check out my Personal Portfolio](https://sanchitbhadgal.live)**
 
 ## Languages and Tools:
 
